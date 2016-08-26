@@ -1,0 +1,19 @@
+{
+  "name": "angular-mailchimp",
+  "version": "0.0.4",
+  "description": "Angular controller for facilitating MailChimp subscriptions.",
+  "main": "angular-mailchimp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjamincharity/angular-mailchimp.git"
+  },
+  "author": "keithio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benjamincharity/angular-mailchimp/issues"
+  },
+  "homepage": "https://github.com/benjamincharity/angular-mailchimp#readme"
+}
